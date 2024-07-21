@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="application-x-font-type1.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     type="text/css"
+     id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+   </style>
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.8125"
+     inkscape:cx="31.184713"
+     inkscape:cy="38.929936"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs13">
+    <linearGradient
+       id="a"
+       y1="392.36"
+       y2="365.36"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(309.57 152.44)">
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity=".2"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       y1="17"
+       y2="24"
+       x1="47"
+       x2="54"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2,0,0,2,-54,-15.99999)">
+      <stop
+         stop-color="#060606"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#a"
+       id="c"
+       x1="5"
+       y1="30"
+       x2="5"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2,0,0,2,-40,9.4993631e-6)" />
+  </defs>
+  <path
+     d="M 40,4.0000095 H 16 c -3.324,0 -6,2.676 -6,5.9999995 v 44 c 0,3.324 2.676,6 6,6 h 32 c 3.324,0 6,-2.676 6,-6 v -36 z"
+     id="path15"
+     style="fill:#423d73;fill-opacity:1;stroke-width:2" />
+  <path
+     d="m 16,4.0000095 a 5.98,5.98 0 0 0 -4.246,1.754 c -0.062,0.062 -0.04,0.18 -0.1,0.246 H 40 v -2 z"
+     color="#000000"
+     opacity="0.5"
+     fill="#ffffff"
+     id="path17"
+     style="display:inline;stroke-width:2" />
+  <path
+     d="m 11.652,58.000009 c 0.06,0.066 0.04,0.184 0.102,0.246 a 5.98,5.98 0 0 0 4.246,1.754 h 32 a 5.98,5.98 0 0 0 4.246,-1.754 c 0.062,-0.062 0.04,-0.18 0.1,-0.246 H 11.654 Z"
+     id="path19"
+     class="ColorScheme-Highlight"
+     style="display:inline;opacity:1;fill:currentColor;fill-opacity:1;stroke-width:2" />
+  <path
+     d="M 54,18.000009 40,4.0000095 V 18.000009 Z"
+     color="#000000"
+     opacity="0.5"
+     fill="#ffffff"
+     fill-rule="evenodd"
+     id="path21"
+     style="stroke-width:2" />
+  <path
+     d="m 40,18.000009 14,14 v -14 z"
+     opacity="0.1"
+     fill="url(#b)"
+     fill-rule="evenodd"
+     id="path23"
+     style="fill:url(#b);stroke-width:2" />
+  <path
+     style="line-height:125%;-inkscape-font-specification:'Oxygen Italic';opacity:0.75;fill:#ffffff;fill-opacity:1;stroke-width:2"
+     d="m 29.625646,43.902361 c -2.04,0 -3.43,-0.99 -3.06,-3.506 0.464,-3.146 2.41,-4.18 8.572,-5.034 0.046,0 1.946,-0.314 1.946,-0.314 l -0.788,5.572 c -1.668,2.024 -4.68,3.28 -6.672,3.28 z m 6.346,-0.27 0.092,2.606 h 2.64 l 2.41,-16.854 c 0.74,-5.122 -2.27,-6.606 -6.488,-6.606 -3.012,0 -5.976,0.854 -7.736,1.842 l 0.508,2.788 a 16.988,16.988 0 0 1 6.858,-1.528 c 2.918,0 3.984,1.392 3.612,4.09 l -0.416,2.56 -2.178,0.27 c -5.606,0.854 -11.072,1.708 -11.952,7.73 -0.648,4.316 1.992,6.248 5.514,6.248 a 9.734,9.734 0 0 0 7.134,-3.146 z"
+     font-style="italic"
+     font-weight="400"
+     font-family="Oxygen"
+     letter-spacing="0"
+     word-spacing="0"
+     id="path32" />
+</svg>
