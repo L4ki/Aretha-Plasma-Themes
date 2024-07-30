@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#000000"
-     inkscape:zoom="4.5656502"
-     inkscape:cx="93.30544"
-     inkscape:cy="223.18837"
+     inkscape:zoom="2.2828251"
+     inkscape:cx="102.50457"
+     inkscape:cy="137.11081"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -523,7 +523,7 @@
      transform="rotate(90,232.23013,258.23233)">
     <path
        id="rect3003-5-6"
-       style="opacity:1;fill:#556fa6;fill-opacity:1"
+       style="opacity:1;fill:#0077ee;fill-opacity:1"
        d="m 40,359.36218 h 80 v 3 H 40 Z" />
   </g>
   <rect
@@ -612,7 +612,7 @@
      transform="rotate(90,217.68001,243.68221)">
     <path
        id="rect3003-5"
-       style="opacity:1;fill:#556fa6;fill-opacity:1"
+       style="opacity:1;fill:#0077ee;fill-opacity:1"
        d="m 40,359.36218 h 80 v 3 H 40 Z" />
   </g>
   <g
@@ -628,7 +628,7 @@
        y="359.35999" />
     <path
        id="rect3542-0"
-       style="opacity:1;fill:#556fa6;fill-opacity:1"
+       style="opacity:1;fill:#0077ee;fill-opacity:1"
        transform="matrix(0,-1.0007349,1,0,-236.36218,576.51945)"
        d="m 215.5,269.36133 a 1.5,1.5 0 0 0 -1.5,1.5 c 0,0 0.002,5.50001 0,5.5 h 2.99805 l 0.002,-5.5 a 1.5,1.5 0 0 0 -1.5,-1.5 z" />
   </g>
@@ -645,7 +645,7 @@
        y="359.35999" />
     <path
        id="rect3542-9-4"
-       style="opacity:1;fill:#556fa6;fill-opacity:1"
+       style="opacity:1;fill:#0077ee;fill-opacity:1"
        transform="matrix(0,-1.0007349,1,0,-236.36218,576.51945)"
        d="m 214,356.36133 c 0.002,10e-6 0,5.5 0,5.5 a 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 l -0.002,-5.5 z" />
   </g>
@@ -808,7 +808,7 @@
        y="359.35999" />
     <path
        id="rect3542-0-7"
-       style="opacity:1;fill:#556fa6;fill-opacity:1"
+       style="opacity:1;fill:#0077ee;fill-opacity:1"
        transform="matrix(0,-1.0007349,1,0,-236.36218,770.66226)"
        d="m 409.5,269.36133 a 1.5,1.5 0 0 0 -1.5,1.5 c 0,0 0.002,5.50001 0,5.5 h 2.99805 l 0.002,-5.5 a 1.5,1.5 0 0 0 -1.5,-1.5 z" />
   </g>
@@ -825,7 +825,7 @@
        y="359.35999" />
     <path
        id="rect3542-9-4-6"
-       style="opacity:1;fill:#556fa6;fill-opacity:1"
+       style="opacity:1;fill:#0077ee;fill-opacity:1"
        transform="matrix(0,-1.0007349,1,0,-236.36218,770.66226)"
        d="m 408,356.36133 v 5.5 a 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 l -0.002,-5.5 z" />
   </g>
