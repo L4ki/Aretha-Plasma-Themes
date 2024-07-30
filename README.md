@@ -35,3 +35,28 @@ Screenshot:
 
 ![1](https://github.com/user-attachments/assets/8c29832b-4054-45b9-b0b6-53a9a0016815)
 
+Changelog: 30.07.2024.
+----------------------
+
+GTK Theme
+---------
+
+Update: gtkrc
+
+Aurorae Theme for Plasma 5
+--------------------------
+
+Update: metadata.desktop
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Update widget: tabbar.svg
+
+
+
