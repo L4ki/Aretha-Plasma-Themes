@@ -35,13 +35,13 @@ Screenshot:
 
 ![1](https://github.com/user-attachments/assets/8c29832b-4054-45b9-b0b6-53a9a0016815)
 
-Changelog: 27.08.2024.
+Changelog: 03.09.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: styles
+Update: hacks.rc
 
 Aurorae Theme for Plasma 5
 --------------------------
@@ -56,7 +56,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: panel-background.svg
+Update widget: toolbar.svg
 
 
 
