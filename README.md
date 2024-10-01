@@ -35,13 +35,13 @@ Screenshot:
 
 ![1](https://github.com/user-attachments/assets/8c29832b-4054-45b9-b0b6-53a9a0016815)
 
-Changelog: 24.09.2024.
+Changelog: 01.10.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: gtk-4.0
 
 Aurorae Theme for Plasma 5
 --------------------------
@@ -51,12 +51,12 @@ Update: metadata.desktop
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: actions
 
 Plasma Theme
 ------------
 
-Update widget: slider.svg
+Update widget: busywidget.svg
 
 
 
