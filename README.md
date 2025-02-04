@@ -35,13 +35,13 @@ Screenshot:
 
 ![1](https://github.com/user-attachments/assets/8c29832b-4054-45b9-b0b6-53a9a0016815)
 
-Changelog: 28.01.2025.
+Changelog: 04.02.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: styles
 
 Aurorae Theme for Plasma 5
 --------------------------
