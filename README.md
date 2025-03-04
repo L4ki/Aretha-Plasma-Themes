@@ -35,18 +35,13 @@ Screenshot:
 
 ![1](https://github.com/user-attachments/assets/8c29832b-4054-45b9-b0b6-53a9a0016815)
 
-Changelog: 25.02.2025.
+Changelog: 04.03.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: main.rc
-
-Aurorae Theme for Plasma 5
---------------------------
-
-Update: metadata.desktop
+Update: hacks-dark.rc
 
 Icons
 -----
@@ -56,7 +51,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: plasmarc
 
 
 
