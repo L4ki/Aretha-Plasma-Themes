@@ -35,13 +35,14 @@ Screenshot:
 
 ![1](https://github.com/user-attachments/assets/8c29832b-4054-45b9-b0b6-53a9a0016815)
 
-Changelog: 25.03.2025.
+
+Changelog: 01.04.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: styles
 
 Icons
 -----
