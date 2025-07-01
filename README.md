@@ -36,13 +36,13 @@ Screenshot:
 ![1](https://github.com/user-attachments/assets/8c29832b-4054-45b9-b0b6-53a9a0016815)
 
 
-Changelog: 24.06.2025.
+Changelog: 01.07.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: gtkrc
 
 Icons
 -----
