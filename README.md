@@ -36,20 +36,20 @@ Screenshot:
 ![1](https://github.com/user-attachments/assets/8c29832b-4054-45b9-b0b6-53a9a0016815)
 
 
-Changelog: 04.11.2025.
+Changelog: 11.11.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: styles
 
 Icons
 -----
 
-Updateicons: actions 22
+Updateicons: apps 22
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: metadata.json
