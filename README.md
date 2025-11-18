@@ -47,7 +47,7 @@ Update: gtk-4.0
 Icons
 -----
 
-Updateicons: apps 24
+Added new icons: apps 24
 
 Plasma Theme
 ------------
